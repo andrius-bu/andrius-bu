@@ -1,12 +1,16 @@
 ### Hi there 👋
 
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=andrius-bu&show_icons=true&hide=contribs,prs"/>
+</a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrius-bu&layout=compact" />
-</a> 
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="top" src="https://github-readme-stats.vercel.app/api?username=andrius-bu&show_icons=true&hide=contribs,prs" />
 </a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="top" src="https://github-profile-trophy.vercel.app/?username=andrius-bu&theme=algolia&no-bg=true&row=2&column=4"/>
+</a> 
 
 
 <!--
