@@ -1,9 +1,7 @@
 ### Hi there 👋
 
-[![Andrius's GitHub stats](https://github-stats-extended.vercel.app/api?username=andrius-bu&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=chartreuse-dark)](https://github.com/stats-organization/github-stats-extended)
-
-
-
+| <a href="https://github.com/stats-organization/github-stats-extended"><img align="center" src="https://github-stats-extended.vercel.app/api?username=andrius-bu&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=chartreuse-dark" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=andrius-bu&langs_count=10&theme=chartreuse-dark" /></a> |
+| ------------- | ------------- |
 
 
 <!--
